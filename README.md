@@ -1,16 +1,13 @@
 # product-cards
-## OVERVIEW:
 
 ## DESCRIPTION:
 
 ## FEATURES:
 
-## VIDEO DEMO:
-
 ## LINKS:
-#### Repo: https://github.com/fimoefive/sorting-hat
-#### Netlify link: https://mjs-sorting-hat.netlify.app
+#### Repo: https://github.com/fimoefive/product-cards
+#### Netlify link: https://mjs-product-cards.netlify.app
 
 ## CONTRIBUTOR: https://github.com/fimoefive
 
-## SCREENSHOTS:
+## SCREENSHOTS: https://www.loom.com/i/2b8c14e70e8d46bea6f52ec9c7ea06dc
